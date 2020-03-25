@@ -1,3 +1,5 @@
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/Team-XLink/releases)
+
 # XLink Kai Releases
 Think of this repo as a mirror of our offical releases.
 
