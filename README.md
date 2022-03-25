@@ -1,7 +1,8 @@
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/Team-XLink/releases)
+[![Discord](https://img.shields.io/badge/Discord-XLink%20Kai-brightgreen)](https://discord.gg/XUS9n73KSP)
 
 # XLink Kai Releases
-Think of this repo as a mirror of our offical releases.
+Think of this repo as a mirror of our official releases.
 
 ## How to install XLink Kai
 For macOS and Windows it is simple, download the version you desire from the [releases](https://github.com/Team-XLink/Releases/releases) page.
